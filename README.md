@@ -1,18 +1,43 @@
 ## 👋 Hi, I am Mario Pozadas!
 
-I am a **Java Backend Developer** passionate with building scalable, maintanible, and data-driven applications using **Java**, **Spring Boot**, and **PostgreSQL** xddd.
+I am a **Java Backend Junior Developer** passionate with building scalable, maintanible, and data-driven applications using **Java**, **Spring Boot**, and **PostgreSQL**.
 
-<!--
-**xXElCarteroXx/xXElCarteroXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Tech Stack
+- ☕ **Languages:** Java, SQL, Python
+- ⚙️ **Frameworks:** Spring Boot, JPA/Hibernate
+- 🗄️ **Databases:** PostgreSQL, MySQL
+- 🔧 **Tools:** Git, Maven, Docker
+- 💡 **Concepts:** REST APIs, Object Oriented Programming, Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+
+#### ⚽ Soccer Touurnament Simulator
+A Java console based application that simulates a soccer torunament (group & knockout stages) through tournament logic.
+**Tech:** Java, OOP, Collections.
+
+#### 🧩 Backend Personal Projects Portfolio REST API
+A Spring Boot RESTful application with CRUD operations that integrates a layered usage system between client and server through a PostgreSQL database.
+**Tech:** Spring Boot, Spring Framework, PostgreSQL, Java, OOP, JPA, Maven.
+
+#### ⚽ Premier League Soccer Player Registry
+A Spring boot application with CRUD operations and CLI-Based Java + Spring JPA integration for managing player records in a PostgreSQL database.
+**Tech:** Java, OOP, Spring Boot, Spring Data JPA, Maven, PostgreSQL
+
+---
+
+### 🧠 Currently Learning
+- Spring Security and JWT aithentication
+- Spring AI integration
+- Docker for microservices
+- Advanced SQL optimization
+
+---
+
+### 📫 Contact Me
+
+📧 marioedpoz@gmail.com
+💼 https://www.linkedin.com/in/mario-pozadas-6318141b3/
