@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I am Mario Pozadas!
+
+I am a **Java Backend Developer** passionate with building scalable, maintanible, and data-driven applications using **Java**, **Spring Boot**, and **PostgreSQL**.
 
 <!--
 **xXElCarteroXx/xXElCarteroXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
