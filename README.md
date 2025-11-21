@@ -16,7 +16,7 @@ I am a **Java Backend Junior Developer** passionate with building scalable, main
 ### 🚀 Projects
 
 #### ⚽ Soccer Touurnament Simulator
-A Java console based application that simulates a soccer torunament (group & knockout stages) through tournament logic.
+A Java console based application that simulates a soccer tournament (group & knockout stages) through tournament logic.
 **Tech:** Java, OOP, Collections.
 [View repository] (https://github.com/xXElCarteroXx/soccer-tournament-simulator)
 
